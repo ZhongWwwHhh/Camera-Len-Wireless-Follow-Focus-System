@@ -1,5 +1,5 @@
 # Camera-Len-Wireless-Follow-Focus-System
-***Many documents are not yet complete, the initial version has been released, please wait🌛***
+***Learning C++ hardly...***
 
 **[简体中文](https://github.com/ZhongWwwHhh/Camera-Len-Wireless-Follow-Focus-System/blob/main/README_ZH_CN.md)**
 
